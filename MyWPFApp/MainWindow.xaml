@@ -21,7 +21,7 @@
             <Setter Property="FontSize" Value="22" />
         </Style>
     </Window.Resources>
-    <Grid>
+    <Grid Margin="10">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="*"/>
